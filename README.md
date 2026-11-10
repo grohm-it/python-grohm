@@ -1,5 +1,9 @@
 # python-grohm
 
+[![PyPI](https://img.shields.io/pypi/v/grohm)](https://pypi.org/project/grohm/)
+[![Downloads](https://img.shields.io/pypi/dm/grohm)](https://pypistats.org/packages/grohm)
+[![CI](https://github.com/grohm-it/python-grohm/actions/workflows/ci.yml/badge.svg)](https://github.com/grohm-it/python-grohm/actions/workflows/ci.yml)
+
 Async Python client for [Grohm](https://grohm.it) EV chargers, through the
 Grohm cloud API. It is the library behind the Grohm integration of
 Home Assistant, and is maintained by Emme Esse S.p.A., the maker of Grohm.
