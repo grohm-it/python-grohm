@@ -24,8 +24,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/grohm/python-grohm"
-Issues = "https://github.com/grohm/python-grohm/issues"
+Homepage = "https://github.com/grohm-it/python-grohm"
+Issues = "https://github.com/grohm-it/python-grohm/issues"
 
 [project.optional-dependencies]
 test = ["pytest>=8", "pytest-asyncio>=0.23", "pytest-cov", "mypy", "ruff"]
