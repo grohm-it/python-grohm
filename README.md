@@ -82,5 +82,12 @@ version in `pyproject.toml`.
 
 ## License
 
-Apache License 2.0, see [LICENSE](LICENSE). Grohm is a registered trademark
-of Emme Esse S.p.A.
+Apache License 2.0, see [LICENSE](LICENSE).
+
+The license covers only the code in this repository. It does not
+cover the Grohm cloud service and its API, the my-Grohm apps, the firmware of
+the chargers, or any other software of Emme Esse S.p.A., and it grants no
+right to use the Grohm trademarks. Access to the Grohm cloud is provided by
+Emme Esse S.p.A., and may be changed, limited or discontinued at any time.
+
+Grohm is a registered trademark of Emme Esse S.p.A.
